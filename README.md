@@ -1,2 +1,2 @@
-# Uber-Analysis-Via-Matplotlib-
+# Matplotlib Analysis
 Uber Analysis Via Matplotlib 
